@@ -18,3 +18,8 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 # Presentations
 
 - [QtRvSim – RISC-V Simulator for Computer Architectures Classes](https://comparch.edu.cvut.cz/slides/ewc22-qtrvsim.pdf) @ [Embedded World Conference 2022](https://events.weka-fachmedien.de/embedded-world-conference/program/)
+
+# Publications
+
+- Dupák, J.; Píša, P.; Štepanovský, M.; Kočí, K. **QtRVSim – RISC-V Simulator for Computer Architectures Classes** In: embedded world Conference 2022. Haar: WEKA FACHMEDIEN GmbH, 2022. p. 775-778. ISBN 978-3-645-50194-1.
+  - [Available online](/publications/ewC2022-Dupak-Pisa-Stepanovsky-QtRvSim.pdf)
