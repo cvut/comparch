@@ -1,0 +1,17 @@
+---
+header:
+  - name: QtRvSim
+    icon: gblog_github
+    ref: "https://github.com/cvut/qtrvsim"
+    external: true
+
+  - name: QtMips
+    icon: gblog_github
+    ref: "https://github.com/cvut/qtrvsim"
+    external: true
+
+footer:
+  - name: Webmaster
+    icon: gblog_email
+    ref: "mailto:dupakjak@fel.cvut.cz"
+    external: true
