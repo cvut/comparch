@@ -4,7 +4,7 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 
 # Simulators
 
-[![](./index/qtrvsim-1.png)](/qtrvsim/app)
+<a href="/qtrvsim/app" target ="_blank">![](./index/qtrvsim-1.png)</a>
 
 - QtRvSim [Online](https://comparch.edu.cvut.cz/qtrvsim/app), [Source](https://github.com/cvut/qtrvsim), [Download](https://github.com/cvut/qtrvsim/releases)
 - QtMips [Online](https://comparch.edu.cvut.cz/qtmips/app), [Source](https://github.com/cvut/QtMips/), [Download](https://github.com/cvut/QtMips/releases)
