@@ -23,7 +23,7 @@ jobs:
         with:
           submodules: recursive
       - name: Build theme
-        working-directory: ${{ github.workspace }}/themes/
+        working-directory: ${{ github.workspace }}/themes/geekblog
         run: npm install && npm run build
       - name: Build with Hugo
         run: hugo
