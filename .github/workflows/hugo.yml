@@ -29,8 +29,9 @@ jobs:
         run: hugo
       - name: Push to server
         env:
-          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+          RCLONE_CONFIG_COMPARCH_TYPE: ftp
+          RCLONE_CONFIG_COMPARCH_HOST: comparch.edu.cvut.cz
+          RCLONE_CONFIG_COMPARCH_USER: comparch_github
+          RCLONE_CONFIG_COMPARCH_PASS: ${{ secrets.FtpPass }}
         run: |
-          mkdir -p ~/.config/rclone &&
-          echo $RCLONE_CONF > ~/.config/rclone/rclone.conf &&
           rclone copyto public/ comparch:web/
