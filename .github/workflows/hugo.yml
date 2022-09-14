@@ -39,4 +39,4 @@ jobs:
           RCLONE_CONFIG_COMPARCH_USER: comparch_github
           RCLONE_CONFIG_COMPARCH_PASS: ${{ secrets.FtpPass }}
         run: |
-          rclone copyto public/ comparch:web/
+          rclone sync --exclude=stats/ public/ comparch:web/
