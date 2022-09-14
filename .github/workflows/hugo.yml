@@ -17,11 +17,14 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Setup Hugo
-        run: sudo apt-get update && sudo apt-get install hugo
+        run: sudo apt-get update && sudo apt-get install nodejs hugo
       - name: Checkout
         uses: actions/checkout@v3
         with:
           submodules: recursive
+      - name: Build theme
+        working-directory: ${{ github.workspace }}/themes/
+        run: npm install && npm run build
       - name: Build with Hugo
         run: hugo
       - name: Push to server
