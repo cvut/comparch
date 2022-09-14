@@ -1,0 +1,32 @@
+on:
+  push:
+    branches: ["master"]
+
+  workflow_dispatch:
+
+concurrency:
+  group: "comparch"
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Install Hugo CLI
+        run: apt-get update && apt-get install hugo
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - name: Build with Hugo
+        run: hugo
+      - name: rclone
+        uses: wei/rclone@v1
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+        with:
+          args: copyto public/ comparch:web/
