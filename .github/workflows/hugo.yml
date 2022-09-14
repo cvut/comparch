@@ -16,8 +16,8 @@ jobs:
   update:
     runs-on: ubuntu-22.04
     steps:
-      - name: Setup Hugo
-        run: sudo apt-get update && sudo apt-get install nodejs hugo
+      - name: Install
+        run: sudo apt-get update && sudo apt-get install nodejs hugo rclone
       - name: Checkout
         uses: actions/checkout@v3
         with:
