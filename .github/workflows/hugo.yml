@@ -19,9 +19,7 @@ jobs:
       - name: Install
         run: sudo apt-get update && sudo apt-get install nodejs hugo rclone
       - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: recursive
+        uses: nschloe/action-cached-lfs-checkout@v1
       - name: Cache NPM dependencies
         uses: actions/cache@master
         with:
