@@ -15,6 +15,10 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 - FIT: [BI-APS - Architectures of Computer Systems](https://bilakniha.cvut.cz/en/predmet3458406.html) ([en](https://bilakniha.cvut.cz/en/predmet3464506.html))
 - FEL: [BE4M35PAP - Advanced Computer Architectures](https://cw.fel.cvut.cz/wiki/courses/b4m35pap/start)
 
+# Future events
+
+You can meet us at the **[DevConf.cz mini](https://www.devconf.info/cz/)** on 3.11.2022 in Brno where we will present [QtRvSim](https://github.com/cvut/qtrvsim).
+
 # Presentations
 
 - [QtRvSim – RISC-V Simulator for Computer Architectures Classes](https://comparch.edu.cvut.cz/slides/ewc22-qtrvsim.pdf) @ [Embedded World Conference 2022](https://events.weka-fachmedien.de/embedded-world-conference/program/)
