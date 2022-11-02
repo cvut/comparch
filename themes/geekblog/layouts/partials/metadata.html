@@ -1,20 +1,3 @@
-<span class="flex align-center no-wrap">
-  <svg class="gblog-icon gblog_date"><use xlink:href="#gblog_date"></use></svg>
-  <span class="gblog-post__tag">
-    <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-      {{ if .Lastmod.After (.Date.AddDate 0 0 1) }}
-        Updated on
-      {{ end }}
-      {{ .Lastmod.Format "Jan 2, 2006" }}
-    </time>
-  </span>
-</span>
-
-<span class="flex align-center no-wrap">
-  <svg class="gblog-icon gblog_timer"><use xlink:href="#gblog_timer"></use></svg>
-  <span class="gblog-post__tag">{{ .ReadingTime }} min read</span>
-</span>
-
 {{ if eq .Params.weight 1 }}
   <span class="flex align-center no-wrap">
     <svg class="gblog-icon gblog_pin"><use xlink:href="#gblog_pin"></use></svg>

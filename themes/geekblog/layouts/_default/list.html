@@ -1,7 +1,7 @@
 {{ define "main" }}
-  {{ $pages := where .RegularPages "Type" "in" .Site.Params.mainSections }}
+  {{ $pages := where .RegularPagesRecursive "Type" "in" .Site.Params.mainSections }}
   {{ if (eq .Kind "home") }}
-    {{ $pages = where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $pages = where .Site.RegularPagesRecursive "Type" "in" .Site.Params.mainSections }}
   {{ end }}
 
   {{ $paginator := .Paginate $pages }}
@@ -23,7 +23,7 @@
             title="Read full post"
             href="{{ .RelPermalink }}"
           >
-            Read full post
+            Read more
             <i class="gblog-icon">gblog_arrow_right</i>
           </a>
         {{ end }}

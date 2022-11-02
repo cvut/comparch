@@ -11,9 +11,9 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 
 # Related Courses
 
-- FEL: [B35APO - Computer Architectures](https://cw.fel.cvut.cz/wiki/courses/b35apo/start) ([en](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/start)), ([Video en](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M))
-- FIT: [BI-APS - Architectures of Computer Systems](./courses/fit/bi-aps)
-- FEL: [BE4M35PAP - Advanced Computer Architectures](https://cw.fel.cvut.cz/wiki/courses/b4m35pap/start) ([Video cz](https://www.youtube.com/playlist?list=PLQL6z4JeTTQla6OFD1JAAtAt7Zw_3Ys61))
+- [FEL: B35APO Computer Architectures](/courses/fel/b35apo/)
+- [FIT: BI-APS Architectures of Computer Systems](/courses/fit/bi-aps/)
+- [FEL: B4M35PAP Advanced Computer Architectures](/courses/fel/b4m35pap/)
 
 # Future events
 
