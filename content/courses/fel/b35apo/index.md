@@ -6,13 +6,15 @@ Subject provides overview of basic building blocks of computer systems.  Explana
 
 [Subject detail at CTU Study plans](https://fel.cvut.cz/cz/education/bk/predmety/43/58/p4358606)
 
-## Available materials
+## Complete course materials available
 
-- [Course page (Czech)](https://cw.fel.cvut.cz/b212/courses/b35apo/start)
+- [Course page (Czech)](https://cw.fel.cvut.cz/wiki/courses/b35apo/start) ([Lectures](https://cw.fel.cvut.cz/wiki/courses/b35apo/lectures/start))
 
-- [Course page (English)](https://cw.fel.cvut.cz/b212/courses/b35apo/en/start)
+- [Course page (English)](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/start) ([Lectures](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/lectures/start))
 
 - [Lecture videos (English, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)
+
+- [Templates and examples for seminaries (GIT)](https://gitlab.fel.cvut.cz/b35apo/stud-support)
 
 ## Contact person
 
