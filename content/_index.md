@@ -18,7 +18,6 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 # Presentations
 
 - [QtRvSim – RISC-V Simulator for Computer Architectures Classes](https://comparch.edu.cvut.cz/slides/ewc22-qtrvsim.pdf) @ [Embedded World Conference 2022](https://events.weka-fachmedien.de/embedded-world-conference/program/)
-
 - [QtRvSim](https://github.com/cvut/qtrvsim) has been presented by Jakub Dupák at RedHat organized [DevConf.cz mini](https://www.devconf.info/cz/) in Brno, [Video](https://youtu.be/l0jfvINWgK4), [Slides](https://github.com/devconfcz/archive/blob/main/2022/November/DevConfCZMini/devconf-qtrvsim.pdf)
 
 # Publications
