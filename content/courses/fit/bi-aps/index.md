@@ -4,7 +4,7 @@ title:  "FIT: BI-APS Architectures of Computer Systems"
 
 Students will learn the construction principles of internal architecture of computers with universal processors at the level of machine instructions. Special emphasis is given on the pipelined instruction processing and on the memory hierarchy. Students will understand the basic concepts of RISC and CISC architectures and the principles of instruction processing not only in scalar processors, but also in superscalar processors that can execute multiple instructions in one cycle, while ensuring the correctness of the sequential model of programs. The course further elaborates the principles and architectures of shared memory multiprocessor and multicore systems and the memory coherence and consistency in such systems. 
 
-[Subject detail at CTU Study plans](https://bilakniha.cvut.cz/en/predmet3458406.html)
+[Subject detail at CTU Study plans](https://bilakniha.cvut.cz/en/predmet6701806.html)
 
 ## Available materials
 
