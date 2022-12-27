@@ -15,6 +15,13 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 - [FIT: BI-APS Architectures of Computer Systems](/courses/fit/bi-aps/)
 - [FEL: B4M35PAP Advanced Computer Architectures](/courses/fel/b4m35pap/)
 
+# Upcoming events
+
+- **FOSDEM 2023**
+  - [QtRVSim—Education from Assembly to Pipeline, Cache Performance, and C Level Programming](https://fosdem.org/2023/schedule/event/rv_qtrvsim/)
+  - *5th February 2023 9:40-10:20 CET, Brussels*
+  - [RISC-V devroom](https://fosdem.org/2023/schedule/track/risc_v/) [K.4.601](https://fosdem.org/2023/schedule/room/k4601/) 
+
 # Presentations
 
 - [QtRvSim – RISC-V Simulator for Computer Architectures Classes](https://comparch.edu.cvut.cz/slides/ewc22-qtrvsim.pdf) @ [Embedded World Conference 2022](https://events.weka-fachmedien.de/embedded-world-conference/program/)
