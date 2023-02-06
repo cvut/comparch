@@ -15,16 +15,11 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 - [FIT: BI-APS Architectures of Computer Systems](/courses/fit/bi-aps/)
 - [FEL: B4M35PAP Advanced Computer Architectures](/courses/fel/b4m35pap/)
 
-# Upcoming events
-
-- **FOSDEM 2023**
-  - [QtRVSim—Education from Assembly to Pipeline, Cache Performance, and C Level Programming](https://fosdem.org/2023/schedule/event/rv_qtrvsim/)
-  - *5th February 2023 9:40-10:20 CET, Brussels*
-  - [RISC-V devroom](https://fosdem.org/2023/schedule/track/risc_v/) [K.4.601](https://fosdem.org/2023/schedule/room/k4601/) 
-
 # Presentations
 
+- FOSDEM 2023 [QtRVSim—Education from Assembly to Pipeline, Cache Performance, and C Level Programming](https://fosdem.org/2023/schedule/event/rv_qtrvsim/) in Brussels, [Slides](https://fosdem.org/2023/schedule/event/rv_qtrvsim/attachments/slides/5732/export/events/attachments/rv_qtrvsim/slides/5732/qtrvsim_fosdem23_slides.pdf) 
 - [QtRvSim – RISC-V Simulator for Computer Architectures Classes](https://comparch.edu.cvut.cz/slides/ewc22-qtrvsim.pdf) @ [Embedded World Conference 2022](https://events.weka-fachmedien.de/embedded-world-conference/program/)
+
 - [QtRvSim](https://github.com/cvut/qtrvsim) has been presented by Jakub Dupák at RedHat organized [DevConf.cz mini](https://www.devconf.info/cz/) in Brno, [Video](https://youtu.be/l0jfvINWgK4), [Slides](https://github.com/devconfcz/archive/blob/main/2022/November/DevConfCZMini/devconf-qtrvsim.pdf)
 - RISC-V International Academic and Training SIG: [QtRvSim - RISC-V Simulator with Cache and Pipeline Visualization (YouTube)](https://youtu.be/J6AcPZZ_ISg?t=12)
 
