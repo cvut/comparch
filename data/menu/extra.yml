@@ -7,7 +7,7 @@ header:
 
   - name: QtMips
     icon: gblog_github
-    ref: "https://github.com/cvut/qtrvsim"
+    ref: "https://github.com/cvut/QtMips/"
     external: true
 
 footer:
