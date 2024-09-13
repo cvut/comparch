@@ -30,11 +30,8 @@ jobs:
         run: npm install && npm run build
       - name: Build with Hugo
         run: hugo
-      - name: Push to server
-        env:
-          RCLONE_CONFIG_COMPARCH_TYPE: ftp
-          RCLONE_CONFIG_COMPARCH_HOST: comparch.edu.cvut.cz
-          RCLONE_CONFIG_COMPARCH_USER: comparch_github
-          RCLONE_CONFIG_COMPARCH_PASS: ${{ secrets.FtpPass }}
+      - name: Create ZIP Archive
+        run: zip -r site.zip public/
+      - name: Send ZIP to Web for deployment
         run: |
-          rclone sync --exclude=stats/ public/ comparch:web/
+          curl -X POST -H "Authorization: Bearer ${{ secrets.FtpPass }}" -F "file=@site.zip" http://eval.comparch.edu.cvut.cz:1111/github-actions/update-web
