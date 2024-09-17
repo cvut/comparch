@@ -15,6 +15,10 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 - [FIT: BI-APS Architectures of Computer Systems](/courses/fit/bi-aps/)
 - [FEL: B4M35PAP Advanced Computer Architectures](/courses/fel/b4m35pap/)
 
+# Online Tools
+
+- [WebEvaluator for QtRvSim](/online-tools/webeval/)
+
 # Presentations
 
 - FOSDEM 2023 [QtRVSim—Education from Assembly to Pipeline, Cache Performance, and C Level Programming](https://fosdem.org/2023/schedule/event/rv_qtrvsim/) in Brussels, [Slides](https://fosdem.org/2023/schedule/event/rv_qtrvsim/attachments/slides/5732/export/events/attachments/rv_qtrvsim/slides/5732/qtrvsim_fosdem23_slides.pdf) 
