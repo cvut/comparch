@@ -15,9 +15,9 @@ This is a joint effort of [Faculty of Electrical Engineering](https://fel.cvut.c
 - [FIT: BI-APS Architectures of Computer Systems](/courses/fit/bi-aps/)
 - [FEL: B4M35PAP Advanced Computer Architectures](/courses/fel/b4m35pap/)
 
-# Online Tools
+# Online Tools and Training
 
-- [WebEvaluator for QtRvSim](/online-tools/webeval/)
+- [WebEvaluator for QtRvSim](/online-tools/webeval/) ([direct link](https://eval.comparch.edu.cvut.cz) to the web interface)
 
 # Presentations
 
