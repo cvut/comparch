@@ -22,10 +22,11 @@ The tasks are sorted from introductory ones (i.e., simple value addition solved 
 
 - [Source code (GitLab)](https://gitlab.fel.cvut.cz/b35apo/qtrvsim-eval-web)
 
-## How to start
+## How to Start
 
-Head on over to the [registration page](https://eval.comparch.edu.cvut.cz/register) and create an account. Then select a task from the main page, write your solution and submit it. After the evaluation is done, you can see the results on the page task.
+Head on over to the [registration page](https://eval.comparch.edu.cvut.cz/register) and create an account. Then select a task from the main page, write your solution and submit it. After the evaluation is done, you can see the results on the page task. The page is not reloaded automatically for now. Use the page reload button, please.
 
-## Contact person
+## Contact Persons
 
-[Jakub Pelc](https://swpelc.eu/contact/)
+- [Jakub Pelc](https://swpelc.eu/contact/) - the project author
+- [Pavel Pisa](https://cmp.felk.cvut.cz/~pisa/) - the B35APO lecturer and computer architectures teaching coordinator at CTU FEE
