@@ -11,7 +11,12 @@ header:
     external: true
 
 footer:
-  - name: Webmaster
+  - name: Jakub Dupak - webmaster
     icon: gblog_email
-    ref: "mailto:dupakjak@fel.cvut.cz"
+    ref: "mailto:fel@jakubdupak.com"
+    external: true
+
+  - name: Pavel Pisa - project coordinator
+    icon: gblog_email
+    ref: "mailto:pisa@fel.cvut.cz"
     external: true
