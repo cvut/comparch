@@ -317,13 +317,13 @@ function QtLoader(config)
 
         // Fetch emscripten generated javascript runtime
         var emscriptenModuleSource = undefined
-        var emscriptenModuleSourcePromise = fetchText(applicationName + ".js?v=202301282").then(function(source) {
+        var emscriptenModuleSourcePromise = fetchText(applicationName + ".js?v=20241001").then(function(source) {
             emscriptenModuleSource = source
         });
 
         // Fetch and compile wasm module
         var wasmModule = undefined;
-        var wasmModulePromise = fetchCompileWasm(applicationName + ".wasm?v=202301282").then(function (module) {
+        var wasmModulePromise = fetchCompileWasm(applicationName + ".wasm?v=20241001").then(function (module) {
             wasmModule = module;
         });
 
