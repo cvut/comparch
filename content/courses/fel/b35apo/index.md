@@ -12,6 +12,8 @@ Subject provides overview of basic building blocks of computer systems.  Explana
 
 - [Course page (English)](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/start) ([Lectures](https://cw.fel.cvut.cz/wiki/courses/b35apo/en/lectures/start))
 
+- LaTeX Beamer Slide [sources at CTU FFE GitLab](https://gitlab.fel.cvut.cz/b35apo/apo-slides/) and [GitHub CTU CompArch Slides](https://github.com/cvut/comparch-slides)
+
 - [Lecture videos (English, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)
 
 - [Templates and examples for seminaries (GIT)](https://gitlab.fel.cvut.cz/b35apo/stud-support)
