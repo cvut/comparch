@@ -14,7 +14,7 @@ Subject provides overview of basic building blocks of computer systems.  Explana
 
 - LaTeX Beamer Slide [sources at CTU FFE GitLab](https://gitlab.fel.cvut.cz/b35apo/apo-slides/) and [GitHub CTU CompArch Slides](https://github.com/cvut/comparch-slides)
 
-- [Lecture videos (English 2023/2024/2025 WIP, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQl3tUGV5kM5Wt9ziZrV-fpI)
+- [Lecture videos (English 2023/2024/2025 WIP, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQl3tUGV5kM5Wt9ziZrV-fpI) advertisements free alternative at [VHSky.cz](https://vhsky.cz/my-library/video-playlists/8Ejstt3Tfh8mWGcjQcEL2S)
 
 - [Lecture videos (English 2021/2023, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)
 

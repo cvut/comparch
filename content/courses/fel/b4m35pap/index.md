@@ -10,7 +10,7 @@ title:  "FEL: B4M35PAP Advanced Computer Architectures"
 
 - [Course page (English)](https://cw.fel.cvut.cz/wiki/courses/b4m35pap/start) ([Lectures](https://cw.fel.cvut.cz/wiki/courses/b4m35pap/lectures/start))
 
-- [Lecture videos (Czech, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQla6OFD1JAAtAt7Zw_3Ys61)
+- [Lecture videos (Czech, YouTube)](https://www.youtube.com/playlist?list=PLQL6z4JeTTQla6OFD1JAAtAt7Zw_3Ys61), advertisements free alternative at [VHSky.cz](https://vhsky.cz/my-library/video-playlists/6akpEt7UVq3k6NzXdsY5Hd)
 
 - [Templates and examples for seminaries (GIT)](https://gitlab.fel.cvut.cz/b4m35pap/stud-support)
 
