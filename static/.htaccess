@@ -2,6 +2,7 @@
 	RewriteEngine On
 	RewriteCond %{HTTPS} off
 	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+	RewriteRule  qtrvsim/manual/?$ https://cvut.github.io/qtrvsim/manual/ [R=302,L]
 	RewriteRule  qtrvsim/$ /qtrvsim/app [R=302,L]
 	RewriteRule  qtmips/$ /qtmips/app [R=302,L]
 </IfModule>
